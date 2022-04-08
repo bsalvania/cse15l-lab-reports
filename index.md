@@ -13,7 +13,7 @@ Horizontal rule:
 
 ---
 
-'Inline code' with backticks
+`Inline code` with backticks
 
 ```
 # code block
