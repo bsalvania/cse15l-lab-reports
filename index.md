@@ -6,7 +6,7 @@
 * **Bold yoyo**
 
 1. **Bold yoyo**
-2. "Italicized yoyo*
+2. *Italicized yoyo*
 3. yoyo
 
 Horizontal yoyo:
