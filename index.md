@@ -9,7 +9,8 @@
 2. *Italicized yoyo*
 3. yoyo
 
-Horizontal yoyo:
+Horizontal rule:
+
 ---
 
 'Inline code' with backticks
