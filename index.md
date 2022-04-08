@@ -1,8 +1,24 @@
-#yo
+# Yo
+## Smaller Yo
 
-yoyo
-*Italicized yoyo*
-**Bold yoyo**
+* yoyo
+* *Italicized yoyo*
+* **Bold yoyo**
+
+1. **Bold yoyo**
+2. "Italicized yoyo*
+3. yoyo
+
+Horizontal yoyo:
+---
+
+'Inline code' with backticks
+
+```
+# code block
+print 'yoyo or'
+print 'yo'
+```
 
 [Link](https://bsalvania.github.io/cse15l-lab-reports/test.html)
 
